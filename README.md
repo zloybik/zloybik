@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hello! I am Cahid from Azerbaijan! </h1>
+<h3 align="center">I love coding but not good in coding</h3>
 
-<!--
-**zloybik/zloybik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<form align="center">
+  <img src="https://sarrus.gallerycdn.vsassets.io/extensions/sarrus/sourcepawn-vscode/6.2.0/1696974689822/Microsoft.VisualStudio.Services.Icons.Default">
+</form>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Project <a href="https://discord.gg/A6PtSWWP3J">CS:GO 2015</a>
+- 🌱 I’m currently learning Sourcepawn
+- 👯 I’m looking to collaborate on NOT PLANNED
+- 🤔 I’m looking for help with NOT PLANNED
+- :grin: I’m putting all my plugins in github
