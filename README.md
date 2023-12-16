@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I am Cahid from Azerbaijan! :azerbaijan: </h1>
-<h3 align="center">I love coding but not good in the coding</h3>
+<h3 align="center">I love coding but i not good in the coding</h3>
 
 <form align="center">
   <img src="https://sarrus.gallerycdn.vsassets.io/extensions/sarrus/sourcepawn-vscode/6.2.0/1696974689822/Microsoft.VisualStudio.Services.Icons.Default">
