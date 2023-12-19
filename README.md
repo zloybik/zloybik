@@ -1,6 +1,5 @@
 <h1 align="center"> Hello! I am Cahid from Azerbaijan! :azerbaijan: </h1>
 <hr>
-![](https://hit.yhype.me/github/profile?user_id=106350231)
 <h3 align="center">I love coding but i not good in the coding</h3>
 
 <form align="center">
