@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning Sourcepawn and Python(Later i start learn C#)
 - 👯 I’m looking to collaborate on NOT PLANNED
 - 🤔 I’m looking for help with NOT PLANNED
-- :grin: I’m putting all my plugins in github
+- :grin: I’m putting all works in my github
