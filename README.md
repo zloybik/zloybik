@@ -1,6 +1,6 @@
 <h1 align="center"> Hello👋, i am Cahid</h1>
 <hr>
-<h3 align="center">I love coding but i not good in the coding</h3>
+<h3 align="center">I beginer in the programming</h3>
 
 <img src="https://komarev.com/ghpvc/?username=zloybik&color=blue">
 
