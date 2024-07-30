@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=zloybik&color=blue">
 
-- 🔭 I’m currently working on Project CSGO 2016 and CSO2
+- 🔭 I’m currently working on Project CSGO 2016(Counter-Strike: Restored)
 - 🌱 I’m currently learning Sourcepawn, Python(Later i start learning NodeJs and C#)
 - 👯 I’m looking to collaborate on NOT PLANNED
 - 🤔 I’m looking for help with NOT PLANNED
