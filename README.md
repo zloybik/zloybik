@@ -1,11 +1,1 @@
-<h1 align="center"> Hello👋, i am Cahid</h1>
-<hr>
-<h3 align="center">I beginer in the programming</h3>
-
-<img src="https://komarev.com/ghpvc/?username=zloybik&color=blue">
-
-- 🔭 I’m currently working on Project CSGO 2016(Counter-Strike: Restored)
-- 🌱 I’m currently learning Sourcepawn, Python(Later i start learning NodeJs and C#)
-- 👯 I’m looking to collaborate on NOT PLANNED
-- 🤔 I’m looking for help with NOT PLANNED
-- :grin: I’m putting all works in my github
+안녕하세요! 나는Counter-Strike: Restored의 창조자입니다! 내 프로젝트에 대한 당신의 훌륭한 활동에 감사드립니다! 당신은 곧 당신이 좋아하는 것을 볼 것입니다! 곧 우리 만명이 될 것이라는 사실에 감사드립니다! (모든 번역 된 번역기 :d 나도 한국어를 배우고 싶어요)
