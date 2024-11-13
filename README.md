@@ -8,4 +8,4 @@
 ### Projects
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2016 year client
 
-..... なに？。。。
+   なに？。。。
