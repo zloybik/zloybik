@@ -2,6 +2,9 @@
 - **C#:** Only base, i used him for WinForms programms, in Unity3D and etc
 - **Python:** Coded many bots for discord :d 
 - **Sourcepawn:** Create/Edited many plugins
+- **C++:** Kife coding
+- **PHP:** Smallest, but i think love it
+- **Bash:** No comment.
 ### Languages
 - **English:** Not own language, not good and not bad, i always can understand you ^_^
 - **Russian:** Own language, better for speaking(for me)
