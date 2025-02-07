@@ -8,7 +8,6 @@
 ### Languages
 - **English:** Not own language, not good and not bad, i always can understand you ^_^
 - **Russian:** Own language, better for speaking(for me)
+- **日本語**: Forgot japanese fully :d
 ### Projects
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2016 year client
-
-   なに？。。。
