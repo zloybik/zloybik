@@ -10,4 +10,4 @@
 - **Russian:** Own language, better for speaking(for me)
 - **日本語**: Forgot japanese fully :d
 ### Projects
-- **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2016 year client
+- **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
