@@ -18,5 +18,7 @@ i have chance to die, like 60%, because I've got 45% blood left in my body and I
 I write code for the project and also for my leisure time, I like to do it.
 
 Result: Rn is not summer
+
 If on summer(July) result is a same, its means i`m dead.
+
 If I die, I hope this world can be changed since I couldn't.
