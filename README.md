@@ -23,3 +23,6 @@ Result: Rn is not summer
 If on summer(July) result is a same, its means i`m dead.
 
 If I die, I hope this world can be changed since I couldn't.
+
+# Interesting facts on last summer
+- I spend 1800 hours on coding🔥
