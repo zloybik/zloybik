@@ -26,3 +26,6 @@ If I die, I hope this world can be changed since I couldn't.
 
 # Interesting facts on last summer
 - I spend 1800 hours on coding🔥
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=zloybik" alt="Profile Views"/></p>
+<p align="center"><a href="http://discord.com/users/830812204030623824"><img src="https://discord.c99.nl/widget/theme-1/295791096133320708.png"/></a>
