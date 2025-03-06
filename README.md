@@ -24,11 +24,6 @@ If on summer(July) result is a same, its means i`m dead.
 
 If I die, I hope this world can be changed since I couldn't.
 
-<video width="640" height="360" controls>
-  <source src="/zloybik/zloybik/raw/refs/heads/main/bafanglai.mp4" type="video/mp4"> 
-  Ваш браузер не поддерживает видео тег.
-</video>
-
 # Interesting facts on last summer
 - I spend 1800 hours on coding🔥
 
