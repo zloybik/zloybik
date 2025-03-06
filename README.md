@@ -24,12 +24,9 @@ If on summer(July) result is a same, its means i`m dead.
 
 If I die, I hope this world can be changed since I couldn't.
 
-<video width="560" height="315" 
-    src="https://www.youtube.com/embed/ZoNH1HJr0OQ" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
+<video width="640" height="360" controls>
+  <source src="bafanglai.mp4" type="video/mp4"> 
+  Ваш браузер не поддерживает видео тег.
 </video>
 
 # Interesting facts on last summer
