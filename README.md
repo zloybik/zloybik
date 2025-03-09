@@ -24,6 +24,15 @@ If on summer(July) result is a same, its means i`m dead.
 
 If I die, I hope this world can be changed since I couldn't.
 
+Well, the main thing. If I do die. Then know, in my soul, I will be with you, I was glad to help everyone, especially ITACHI (Owner of DOTA2CLASSIC). Thank you all! I hope my death will be the most peaceful of all. Respect each other, never respond to each other with hatred, love everyone, respect everyone, save everyone, even if he is an enemy. And if so, then I want to convey my words to someone. Maybe someperson is watching and see.
+
+For Heapy:
+Go back to the classiccounter and don't trust anyone as owner. Harmy only trusted you.
+Also, good luck with your university application! 
+
+For ITACHI:
+Thank you Itachi for the great attitude towards me. You were very humorous for me, it made me happy, motivated me, I want to say that you should continue the project zhota2classic and not stop. You have to make it more popular than the popular! And I believe in you. Itachi. You can do it.
+
 # Interesting facts on last summer
 - I spend 1800 hours on coding🔥
 
