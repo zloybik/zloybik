@@ -14,7 +14,7 @@
 - **<a href="https://dotaclassic.ru/">Dota 2 Classic</a>** - Project with competitive matches and MMR system on source 1 dota 2
 - VeXol - soon
 
-i have chance to die, like 60%, because I've got 45% blood left in my body and I won't know the result until the summer.
+i have chance to die, if i dont find the donor. Because I've got 45% blood left in my body and I won't know the result until the summer.
 
 I write code for the project and also for my leisure time, I like to do it.
 
