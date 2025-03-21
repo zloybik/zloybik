@@ -12,7 +12,6 @@
 ### Projects
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
 - **<a href="https://dotaclassic.ru/">Dota 2 Classic</a>** - Project with competitive matches and MMR system on source 1 dota 2
-- VeXol - soon
 
 i have chance to die, if i dont find the donor. Because I've got 45% blood left in my body and I won't know the result until the summer.
 
