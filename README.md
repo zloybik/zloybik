@@ -1,7 +1,7 @@
 ### Languages(Programming)
 - **C#:** Only base, i used him for WinForms programms, in Unity3D and etc
-- **Python:** Coded many bots for discord :d 
-- **Sourcepawn:** Create/Edited many plugins
+- **Python:** Not bad, i can work on backend good
+- **Sourcepawn:** I think the best PL which i know. Same with a C syntaxsys 
 - **C++:** on that moment i learning that PL
 ### Languages
 - **English:** Not own language, not good and not bad, i always can understand you ^_^
