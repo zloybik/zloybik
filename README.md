@@ -21,6 +21,8 @@
 - Coding with someone
 - Training brain for working on backend **MORE** faster!
 
+
+
 i have chance to die, if i dont find the donor. Because I've got 45% blood left in my body and I won't know the result until the summer.
 
 I write code for the project and also for my leisure time, I like to do it.
