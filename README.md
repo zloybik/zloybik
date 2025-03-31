@@ -11,6 +11,16 @@
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
 - **<a href="https://dotaclassic.ru/">Dota 2 Classic</a>** - Project with competitive matches and MMR system on source 1 dota 2
 
+
+# GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloybik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=zloybik&show_icons=true&theme=dark)
+
+## Interests
+- Learn C# like a god
+- Playing with Friends some games
+- Coding with someone
+- Training brain for working on backend **MORE** faster!
+
 i have chance to die, if i dont find the donor. Because I've got 45% blood left in my body and I won't know the result until the summer.
 
 I write code for the project and also for my leisure time, I like to do it.
@@ -29,6 +39,3 @@ Also, good luck with your university application!
 
 For ITACHI:
 Thank you Itachi for the great attitude towards me. You were very humorous for me, it made me happy, motivated me, I want to say that you should continue the project dota2classic and not stop. You have to make it more popular than the popular! And I believe in you. Itachi. You can do it.
-
-# GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloybik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=zloybik&show_icons=true&theme=dark)
