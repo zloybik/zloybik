@@ -30,7 +30,5 @@ Also, good luck with your university application!
 For ITACHI:
 Thank you Itachi for the great attitude towards me. You were very humorous for me, it made me happy, motivated me, I want to say that you should continue the project dota2classic and not stop. You have to make it more popular than the popular! And I believe in you. Itachi. You can do it.
 
-# Interesting facts on last summer
-- I spend 1800 hours on coding🔥
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=zloybik" alt="Profile Views"/></p>
+# GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
