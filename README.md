@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloybik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=zloybik&show_icons=true&theme=dark)
 
 ## Interests
-- Learn C# like a god
+- Learn C# like a good
 - Playing with Friends some games
 - Coding with someone
 - Training brain for working on backend **MORE** faster!
