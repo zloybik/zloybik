@@ -31,4 +31,4 @@ For ITACHI:
 Thank you Itachi for the great attitude towards me. You were very humorous for me, it made me happy, motivated me, I want to say that you should continue the project dota2classic and not stop. You have to make it more popular than the popular! And I believe in you. Itachi. You can do it.
 
 # GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloybik)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloybik&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
