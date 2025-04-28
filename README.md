@@ -10,6 +10,7 @@
 ### Languages
 - **English:** Not own language, not good and not bad, i always can understand you ^_^
 - **Russian:** Own language, better for speaking(for me)
+- **Japanese:** Learning on that time. Now i`m speaking like a kid in japanese :d
 
 ### Projects
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
