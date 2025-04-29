@@ -5,7 +5,7 @@
 - **C++:** only base
 
 ### Now i`m learning
-- Kotlin
+- Japanese
 
 ### Languages
 - **English:** Not own language, not good and not bad, i always can understand you ^_^
