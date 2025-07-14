@@ -5,12 +5,12 @@
 - **C++:** only base
 
 ### Now i`m learning
-- Japanese
+- Nothing?
 
 ### Languages
 - **English:** Intermediate, not good and not bad, i always can understand you ^_^
 - **Russian:** Native, better for speaking(for me)
-- **Japanese:** Intermediate, Learning on that time. Now i`m speaking like a kid in japanese :d
+- **Japanese:** Native, same with russian
 
 ### Projects
 - **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
