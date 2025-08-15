@@ -13,7 +13,7 @@
 - **Japanese:** Native, same with russian
 
 ### Projects
-- **<a href="https://www.csrestored.xyz/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
+- **<a href="https://www.csrestored.com/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
 - **<a href="https://dotaclassic.ru/">Dota 2 Classic</a>** - Project with competitive matches and MMR system on source 1 dota 2
 
 
