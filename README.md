@@ -5,7 +5,7 @@
 - **C++:** only base
 
 ### Now i`m learning
-- Nothing?
+- C#
 
 ### Languages
 - **English:** Intermediate, not good and not bad, i always can understand you ^_^
