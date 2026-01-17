@@ -1,5 +1,5 @@
 ### Languages(Programming)
-- **C#:** Only base, i used him for WinForms programms, in Unity3D and etc
+- **C#:** Based.
 - **Python:** Not bad, i can work on backend good
 - **Sourcepawn:** I think the best PL which i know. Same with a C syntaxsys 
 - **C++:** only base
