@@ -1,11 +1,11 @@
 ### Languages(Programming)
-- **C#:** Based.
+- **C#:** Good, just good
 - **Python:** Not bad, i can work on backend good
 - **Sourcepawn:** I think the best PL which i know. Same with a C syntaxsys 
 - **C++:** only base
 
 ### Now i`m learning
-- C#
+- C++
 
 ### Languages
 - **English:** Intermediate, not good and not bad, i always can understand you ^_^
