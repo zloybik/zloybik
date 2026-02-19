@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ayashi</h1>
 
 <p align="center">
-Backend Developer • Game Modding Enthusiast • C++ Learner
+Backend Developer • Game Modding Enthusiast • Sys Admin
 </p>
 
 ---
