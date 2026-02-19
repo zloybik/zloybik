@@ -13,7 +13,7 @@
 - **Japanese:** Native, same with russian
 
 ### Projects
-- **<a href="https://www.csrestored.com/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2017 year client
+- **<a href="https://www.csrestored.com/">Counter-Strike: Restored</a>** - Project with competitive matches with ELO system on csgo 2023 year client
 
 # GitHub Stats
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vil55kffovw4wsii6c7uxmowre&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=0400ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)<p>
@@ -23,7 +23,7 @@
 </p>
 
 ## Interests
-- Learn C# like a good
+- Learn C++ like a good
 - Playing with Friends some games
 - Coding with someone
 - Training brain for working on backend **MORE** faster!
