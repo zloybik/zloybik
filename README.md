@@ -59,6 +59,30 @@ Competitive CS platform featuring:
 
 ---
 
+## 💼 Experience
+
+### Dota2Classic.ru — Game Server Backend
+Worked on the Dota server side infrastructure and backend related systems.
+
+* Server-side development and maintenance
+* Gameplay / infrastructure improvements
+* Performance and stability work
+* Project collaboration
+
+Completed work successfully (2025).
+
+### Company Internship — System Administrator (Fukuoka, Japan)
+Early experience working in a real company environment.
+
+* Linux / server maintenance
+* Basic infrastructure administration
+* Monitoring and troubleshooting
+* Assisted with system operations
+
+Part-time internship completed successfully (2020).
+
+---
+
 ## 📊 GitHub Activity & Extras
 
 <p align="center">
