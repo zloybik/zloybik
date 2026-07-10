@@ -106,3 +106,5 @@ Part-time internship completed successfully (2020).
 ---
 
 ⭐ Always open to interesting collaborations and technical discussions.
+<br>
+[日本語](https://github.com/zloybik/zloybik/blob/main/README_JP.md)
