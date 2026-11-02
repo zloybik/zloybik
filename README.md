@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ayashi
+<h1 align="center"> Hi 👋 I'm Ayashi</h1 align="center">
 
 <p align="center">
 Former Backend Developer & Game Modder • Now focused on System Administration
