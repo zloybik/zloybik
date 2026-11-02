@@ -1,85 +1,105 @@
-<h1 align="center">Hi 👋 I'm Ayashi</h1>
+# Hi 👋 I'm Ayashi
 
 <p align="center">
-Backend Developer • Game Modding Enthusiast • Sys Admin
+Former Backend Developer & Game Modder • Now focused on System Administration
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* Backend developer focused on game infrastructure, networking and realtime systems
-* Strong interest in multiplayer architecture, matchmaking systems and competitive game services
-* Currently deepening C++ knowledge (low‑level internals, performance, networking)
-* Enjoy building experimental projects, reverse engineering and backend optimization
+- Former backend developer and game modder who transitioned into System Administration.
+- Previous experience in game infrastructure, networking and realtime systems.
+- Currently focused on Linux administration, server infrastructure, system maintenance and troubleshooting.
+- Background in programming, automation, reverse engineering and backend optimization.
+- Combining previous software development experience with practical system administration.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Programming
+### Programming Background
 
-* **C#** — Main frontend(Sometimes backend) language
-* **Python** — Async backend, networking, automation
-* **SourcePawn** — Game server modding and plugins
-* **C++** — Just learning.
+- **C#** — Previously my main development language (frontend and occasional backend).
+- **Python** — Async backend, networking and automation.
+- **SourcePawn** — Game server modding and plugin development.
+- **C++** — Currently expanding my knowledge of low-level programming.
 
-### Backend & Networking
+### System Administration & Infrastructure
 
-* WebRTC / WebSocket realtime communication
-* REST APIs & async services
-* GameCoordinator‑like systems
+- Linux server administration
+- Server maintenance and troubleshooting
+- Networking and infrastructure management
+- System monitoring and performance optimization
+- SSH, SFTP and server security
+- WebSocket and realtime infrastructure
 
 ### Databases & Tools
 
-* MySQL
-* Linux server administration
-* Git workflows
+- MySQL
+- Git
+- Linux CLI
+- REST APIs
+- Server-side infrastructure
 
 ---
 
 ## 🌍 Languages
 
-* 🇷🇺 Russian — Native
-* 🇯🇵 Japanese — Native
-* 🇬🇧 English — Intermediate (comfortable reading & writing)
+- 🇷🇺 Russian — Native
+- 🇯🇵 Japanese — Native
+- 🇬🇧 English — Intermediate (comfortable reading & writing)
 
 ---
 
-## 🧩 Projects
+## 🧩 Previous Projects
 
-### Counter‑Strike: Restored
+### Counter-Strike: Restored
 
-Competitive CS platform featuring:
+A competitive CS platform featuring:
 
-* ELO matchmaking system
-* Custom backend services
-* Competitive infrastructure
-* 2023 client ecosystem support
+- ELO matchmaking system
+- Custom backend services
+- Competitive game server infrastructure
+- 2023 client ecosystem support
 
 ---
 
 ## 💼 Experience
 
+### Remote Contract — IT Company (Saint Petersburg, Russia)
+
+**2026 · 2 months · Successfully completed**
+
+Worked remotely with a Saint Petersburg-based company on infrastructure-related tasks.
+
+- Completed assigned work under a contractual agreement.
+- Successfully fulfilled the contract within the agreed timeframe.
+- Contributed to charitable support for children in Russia undergoing cancer treatment.
+
+**Charitable contribution:** 1/3 of my contractual payment was allocated to support children undergoing cancer treatment in Russia, as specified in the contract.
+
 ### Dota2Classic.ru — Game Server Backend
-Worked on the Dota server side infrastructure and backend related systems.
 
-* Server-side development and maintenance
-* Gameplay / infrastructure improvements
-* Performance and stability work
-* Project collaboration
+**2025 · Successfully completed**
 
-Completed work successfully (2025).
+Worked on the server-side infrastructure and backend-related systems.
+
+- Server-side development and maintenance
+- Gameplay and infrastructure improvements
+- Performance and stability optimization
+- Project collaboration
 
 ### Company Internship — System Administrator (Fukuoka, Japan)
+
+**2020 · Part-time internship · Successfully completed**
+
 Early experience working in a real company environment.
 
-* Linux / server maintenance
-* Basic infrastructure administration
-* Monitoring and troubleshooting
-* Assisted with system operations
-
-Part-time internship completed successfully (2020).
+- Linux and server maintenance
+- Basic infrastructure administration
+- Monitoring and troubleshooting
+- Assistance with daily system operations
 
 ---
 
@@ -97,14 +117,17 @@ Part-time internship completed successfully (2020).
 
 ## 🎯 Interests
 
-* Advanced C++ and systems programming
-* Multiplayer game backend development
-* Reverse engineering
-* Performance optimization
-* Gaming & teamwork
+- Linux and system administration
+- Server infrastructure and networking
+- Infrastructure automation
+- System security and monitoring
+- Low-level programming
+- Multiplayer game infrastructure
 
 ---
 
 ⭐ Always open to interesting collaborations and technical discussions.
+
 <br>
+
 [日本語](https://github.com/zloybik/zloybik/blob/main/README_JP.md)
