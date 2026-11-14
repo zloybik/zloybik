@@ -52,19 +52,6 @@ Former Backend Developer & Game Modder • Now focused on System Administration
 
 ---
 
-## 🧩 Previous Projects
-
-### Counter-Strike: Restored
-
-A competitive CS platform featuring:
-
-- ELO matchmaking system
-- Custom backend services
-- Competitive game server infrastructure
-- 2023 client ecosystem support
-
----
-
 ## 💼 Experience
 
 ### Remote Contract — IT Company (Saint Petersburg, Russia)
